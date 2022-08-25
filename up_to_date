@@ -1,0 +1,9 @@
+git status (enter) 
+
+git add . (enter)
+
+git status (enter)
+
+git commit -m “up_to_date” (enter)
+
+git push
